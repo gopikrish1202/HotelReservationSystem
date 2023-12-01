@@ -1,4 +1,4 @@
 # HotelReservationSystem
 <html>
-  <b> This is my projecet HOTEL RESERVATION SYSTEM</b>
+  <b> This is my project HOTEL RESERVATION SYSTEM</b>
 </html>
