@@ -51,7 +51,7 @@
 ## 🔄 Key Methods in RIResident module:
 
 - addRiResidentDetails- to add Residential Indian customer's details
-- insertRIResidentIntoDB - to send the user data to management package from the service package in order to insert it into the database
+- insertRIResidentIntoDB - to send the user data of Indian customers to management package from the service package, in order to insert it into the database
 - updateRIResidentPhoneNumberUsingResidentId - to update RI Resident phone number using resident Id
 - updateOccupancyUsingResidentId - to update occupancy details of RI Resident using Resident Id
 - updateRIResidentPhoneNumberUsingIdProof - to update RI Resident phone number of RI Resident using Aadhar ID proof
@@ -60,6 +60,32 @@
 - updateOccupancyUsingContactNumber -  to update the RI Resident occupancy using contact number
 - deleteRIResidentDetailsFromDB - to delete RI Resident details from the user (using Resident id)
 - retrieveRIResidentDetails - to retrieve  RI Resident details from the database.
+
+## 🔄 Key Methods in NRIResident module:
+
+- addNRiResidentDetails- to add Non-Residential Indian customer's details
+- insertNRIResidentIntoDB - to send the user data of NRI customers to management package from the service package, in order to insert it into the database
+- updateNRIResidentPhoneNumberUsingResidentId - to update NRI Resident phone number using resident Id
+- updateOccupancyUsingResidentId - to update occupancy details of NRI Resident using Resident Id
+- updateNRIResidentPhoneNumberUsingIdProof - to update NRI Resident phone number of RI Resident using Aadhar ID proof
+- updateOccupancyUsingIdProof - to update NRI Resident occupancy using using Aadhar ID proof
+- updateNRIResidentPhoneNumberUsingContactNumber- to update the NRI Residentphone number using the existing contact number
+- updateOccupancyUsingContactNumber -  to update the NRI Resident occupancy using contact number
+- deleteNRIResidentDetailsFromDB - to delete RI Resident details from the user (using Resident id)
+- retrieveNRIResidentDetails - to retrieve  RI Resident details from the database.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📚 What I Have Done:
 
