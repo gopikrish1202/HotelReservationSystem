@@ -18,7 +18,7 @@ public class RIResidentService {
 		RIResidentManagement RiR=new RIResidentManagement();
 	
 		ApplicationUtil utilObj=new ApplicationUtil();
-	    List<String> riRecords=utilObj.extractDetails(input);
+	    List<String> riRecords=utilObj.extractDetailsRI(input);
 	    List<RIResident> riList=new ArrayList<RIResident>();
 		riList=buildRIResidentList(riRecords);
 		 List<RIResident> insertedRecord=RiR.insertRIResidentIntoDB(riList);
@@ -77,7 +77,7 @@ public class RIResidentService {
 	public int updateRIResidentPhoneNumberUsingIdProof(long aad,long contact_number) throws SQLException
 	{
 		
-			int i=rim.updateRIResidentPhoneNumberUsingIdProofDB(aad,contact_number);
+			int i=rim.updateRIResidentPhoneNumberUsingIdProof(aad,contact_number);
 			return i;
 			
 					
@@ -93,14 +93,14 @@ public class RIResidentService {
 			
 	{
 		
-		  int i=rim.updateRIResidentPhoneNumberUsingResidentIdDB(rid, contact_number);
+		  int i=rim.updateRIResidentPhoneNumberUsingResidentId(rid, contact_number);
 		  return i;
 		  
 			
 	}
 	
 	public boolean checkIdExists(String rid) {
-		boolean i=rim.checkIdExistsDB(rid);
+		boolean i=rim.checkIdExists(rid);
 		return i;
 	}
 
@@ -108,7 +108,7 @@ public class RIResidentService {
 
 	public int updateRIResidentPhoneNumberUsingContactNumber(long old_con, long new_contact_number)throws SQLException 
 	{
-		int i=rim.updateRIResidentPhoneNumberUsingContactNumberDB(old_con, new_contact_number);
+		int i=rim.updateRIResidentPhoneNumberUsingContactNumber(old_con, new_contact_number);
 		return i;
 	}
 
@@ -117,7 +117,7 @@ public class RIResidentService {
 		
 		{
 		
-		int i=rim.updateOccupancyUsingResidentIdDB(noOfAdults, noOfChildrenAbove12, noOfChildrenAbove5,rid);
+		int i=rim.updateOccupancyUsingResidentId(noOfAdults, noOfChildrenAbove12, noOfChildrenAbove5,rid);
 		return i;
 			
 			
@@ -127,7 +127,7 @@ public class RIResidentService {
 	public int updateOccupancyUsingIdProof(int noOfAdults, int noOfChildrenAbove12, int noOfChildrenAbove5, long aad1) throws SQLException
 		
 		{
-			int i=rim.updateOccupancyUsingIdProofDB(noOfAdults, noOfChildrenAbove12, noOfChildrenAbove5,aad1);
+			int i=rim.updateOccupancyUsingIdProof(noOfAdults, noOfChildrenAbove12, noOfChildrenAbove5,aad1);
 			return i;
 					
 		}
@@ -136,7 +136,7 @@ public class RIResidentService {
 	public int updateOccupancyUsingContactNumber(int noOfAdults, int noOfChildrenAbove12, int noOfChildrenAbove5, long contact_number1) throws SQLException
 	
 	{
-		int i=rim.updateOccupancyUsingContactNumberDB(noOfAdults, noOfChildrenAbove12, noOfChildrenAbove5,contact_number1);
+		int i=rim.updateOccupancyUsingContactNumber(noOfAdults, noOfChildrenAbove12, noOfChildrenAbove5,contact_number1);
 		return i;
 		
 	}
