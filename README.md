@@ -48,17 +48,18 @@
 - Utilization of RIResidentManagement for database interactions.
 - Methods in RIResidentManagement for add, update, and delete operations.
 
-## 🔄 Key Methods in RIResidentService:
+## 🔄 Key Methods in RIResident module:
 
-- addRiResidentDetails
-- insertRIResidentIntoDB
-- updateRIResidentPhoneNumberUsingResidentId
-- updateOccupancyUsingResidentId
-- updateRIResidentPhoneNumberUsingIdProof
-- updateOccupancyUsingIdProof
-- updateRIResidentPhoneNumberUsingContactNumber
-- updateOccupancyUsingContactNumber
-- deleteRIResidentDetailsFromDB
+- addRiResidentDetails- to add Residential Indian customer's details
+- insertRIResidentIntoDB - to send the user data to management package from the service package in order to insert it into the database
+- updateRIResidentPhoneNumberUsingResidentId - to update RI Resident phone number using resident Id
+- updateOccupancyUsingResidentId - to update occupancy details of RI Resident using Resident Id
+- updateRIResidentPhoneNumberUsingIdProof - to update RI Resident phone number of RI Resident using Aadhar ID proof
+- updateOccupancyUsingIdProof - to update RI Resident occupancy using using Aadhar ID proof
+- updateRIResidentPhoneNumberUsingContactNumber- to update the RI Residentphone number using the existing contact number
+- updateOccupancyUsingContactNumber -  to update the RI Resident occupancy using contact number
+- deleteRIResidentDetailsFromDB - to delete RI Resident details from the user (using Resident id)
+- retrieveRIResidentDetails - to retrieve  RI Resident details from the database.
 
 ## 📚 What I Have Done:
 
