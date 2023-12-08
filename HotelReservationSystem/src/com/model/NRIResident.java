@@ -60,9 +60,26 @@ public class NRIResident extends Resident {
 		this.purposeForVisit=purposeForVisit;
 	}
 	
+
+
+
+	
+
+
+	public NRIResident(String residentId, String residentName, int age, String gender, long contactNumber, String email,
+			String address, int numberOfAdults, int numberOfChildrenAbove12, int numberOfChildrenAbove5,
+			int durationOfStay, String residentType) {
+		super(residentId, residentName, age, gender, contactNumber, email, address, numberOfAdults, numberOfChildrenAbove12,
+				numberOfChildrenAbove5, durationOfStay, residentType);
+		// TODO Auto-generated constructor stub
+	}
+
+
 	public String toString() {
     	return super.toString();
     }
+
+
 	
 
 	
