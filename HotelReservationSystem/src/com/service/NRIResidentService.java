@@ -20,7 +20,7 @@ public List<NRIResident> addNRiResidentDetails(String[]input) throws Exception {
 		
 	
 		ApplicationUtil utilObj=new ApplicationUtil();
-	    List<String> NriRecords=utilObj.extractDetails(input);
+	    List<String> NriRecords=utilObj.extractDetailsNRI(input);
 	    List<NRIResident> NriList=new ArrayList<NRIResident>();
 		NriList=buildNRIResidentList(NriRecords);
 		 List<NRIResident> insertedRecord=nrim.insertNRIResidentIntoDB(NriList);
