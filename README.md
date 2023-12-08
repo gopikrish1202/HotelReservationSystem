@@ -1,5 +1,5 @@
 # Hotel Reservation System - Console Based Project(Java, MySQL)
-![Project Banner](https://i9.ytimg.com/vi_webp/yD5qWD_x50M/mqdefault.webp?v=65688340&sqp=CKzIzasG&rs=AOn4CLCGII_H7EmSzP-lIx-MYR6YFOTT1g)
+[![Demo Video](https://i9.ytimg.com/vi_webp/yD5qWD_x50M/mqdefault.webp?v=65688340&sqp=CKzIzasG&rs=AOn4CLCGII_H7EmSzP-lIx-MYR6YFOTT1g)](https://www.youtube.com/watch?v=yD5qWD_x50M&t=0s)
 
 🌞 Hey everyone! This is SRIRANGA GOPIKRISHNA G, and I'm excited to share my Hotel Reservation System project—a console-based application developed using Java and MySQL.
 
