@@ -32,11 +32,11 @@
 - Payment
 
 **Packages:**
-- Client
+- [Client](HotelReservationSystem/src/com//client)
 - [Model](HotelReservationSystem/src/com/model)
-- Service
-- Util
-- Management
+- [Service](HotelReservationSystem/src/com/service)
+- [Util](HotelReservationSystem/src/com/util)
+- [Management](HotelReservationSystem/src/com/management)
 
 ## 👩‍💻 Workflow:
 
