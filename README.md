@@ -49,8 +49,9 @@
   - 🔗 [PaymentService.java](HotelReservationSystem/src/com/service/PaymentService.java)
   - 🔗 [ManagerService.java](HotelReservationSystem/src/com/service/ManagerService.java)
 - ⭐ [Util](HotelReservationSystem/src/com/util)
+  - 🔗[ApplicationUtil.java](HotelReservationSystem/src/com/util/ApplicationUtil.java)
 - ⭐ [Management](HotelReservationSystem/src/com/management)
-
+  -
 
 
 
