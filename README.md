@@ -32,7 +32,8 @@
 - Payment
 
 **Packages:**
-- [Client](HotelReservationSystem/src/com//client)
+- [Client](HotelReservationSystem/src/com/client)
+  +[UserInterface.java](HotelReservationSystem/src/com/client/UserInterface.java)
 - [Model](HotelReservationSystem/src/com/model)
 - [Service](HotelReservationSystem/src/com/service)
 - [Util](HotelReservationSystem/src/com/util)
