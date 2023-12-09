@@ -20,7 +20,7 @@
 ## 🛠️ Database Setup:
 
 - Creation of the database: using [`create_database.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/create_database.sql)
-- Created tables using the queries
+- Created required tables for the project, using the queries
   - [`riresident.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/riresident.sql)
   - [`nriresident.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/nriresident.sql)
   - [`room.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/room.sql)
