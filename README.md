@@ -16,6 +16,7 @@
 - Utilization of the database.properties file for MySQL server information.
 - Establishment of a connection between Java code and the MySQL server using JDBC, which is present in [`DBConnectionManager.java`](HotelReservationSystem/src/com/management/DBConnectionManager.java)
 
+
 ## 🛠️ Database Setup:
 
 - Creation of the database: using [`create_database.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/create_database.sql)
