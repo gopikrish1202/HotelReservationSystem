@@ -33,7 +33,8 @@
 
 **Packages:**
 - Client
-- [https://github.com/gopikrish1202/HotelReservationSystem/tree/main/HotelReservationSystem/src/com/model](Model)
+- [](Model)
+- [https://github.com/gopikrish1202/HotelReservationSystem/tree/main/HotelReservationSystem/src/com/model](model)
 - Service
 - Util
 - Management
