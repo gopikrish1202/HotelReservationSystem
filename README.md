@@ -42,6 +42,12 @@
   - 🔗 [Room.java](HotelReservationSystem/src/com/model/Room.java)
   - 🔗 [Payment.java](HotelReservationSystem/src/com/model/Payment.java)
 - ⭐ [Service](HotelReservationSystem/src/com/service)
+  -🔗 [BookingService.java](HotelReservationSystem/src/com/service/BookingService.java)
+  - 🔗 [RIResident.java](HotelReservationSystem/src/com/service/RIResidentService.java)
+  - 🔗 [NRIResidentService.java](HotelReservationSystem/src/com/service/NRIResidentService.java)
+  - 🔗 [RoomService.java](HotelReservationSystem/src/com/service/RoomService.java)
+  - 🔗 [PaymentService.java](HotelReservationSystem/src/com/service/PaymentService.java)
+  - 🔗 [ManagerService.java](HotelReservationSystem/src/com/service/ManagerService.java)
 - ⭐ [Util](HotelReservationSystem/src/com/util)
 - ⭐ [Management](HotelReservationSystem/src/com/management)
 
