@@ -18,13 +18,14 @@
 
 ## 🛠️ Database Setup:
 
-- Creation of the database: `CREATE DATABASE hotel_reservation_system;`
+- Creation of the database: [`CREATE DATABASE hotel_reservation_system;`](HotelReservationSystem/hotel_reservation_system%20(database)/create_database.sql)
 - Created tables using the queries
-  - [riresident.sql](HotelReservationSystem/hotel_reservation_system (database)/riresident.sql)
-  - [nriresident.sql](HotelReservationSystem/hotel_reservation_system (database)/nriresident.sql)
-  - [room.sql](HotelReservationSystem/hotel_reservation_system (database)/room.sql)
-  - [booking.sql](HotelReservationSystem/hotel_reservation_system (database)/booking.sql)
-  - [payment.sql](HotelReservationSystem/hotel_reservation_system (database)/payment.sql)
+  - [riresident.sql](HotelReservationSystem/hotel_reservation_system%20(database)/riresident.sql)
+  - [nriresident.sql](HotelReservationSystem/hotel_reservation_system%20(database)/nriresident.sql)
+  - [room.sql](HotelReservationSystem/hotel_reservation_system%20(database)/room.sql)
+  - [booking.sql](HotelReservationSystem/hotel_reservation_system%20(database)/booking.sql)
+  - [payment.sql](HotelReservationSystem/hotel_reservation_system%20(database)/payment.sql)
+
 
 
 ## 💻 Modules and Packages:
