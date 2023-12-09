@@ -79,7 +79,15 @@
 - Definition of addRiResidentDetails() method in RIResidentService class to receive user input.
 - Conversion of string input to ArrayList of Strings in ApplicationUtil class.
 - Utilization of RIResidentManagement for database interactions.
-- Methods in RIResidentManagement for add, update, and delete operations.
+- Methods in RIResidentManagement for add, update, retrieve and delete operations.
+
+
+  ## 🚀 NRIResident Module:
+
+- Definition of addNRiResidentDetails() method in NRIResidentService class to receive user input.
+- Conversion of string input to ArrayList of Strings in ApplicationUtil class.
+- Utilization of NRIResidentManagement for database interactions.
+- Methods in NRIResidentManagement for add, update, retrieve and delete operations.
 
 ## 🔄 Key Methods in RIResident module:
 
