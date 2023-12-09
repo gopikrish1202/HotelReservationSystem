@@ -1,5 +1,5 @@
 # Hotel Reservation System - Console Based Project(Java, MySQL)
-[![Demo Video](https://i9.ytimg.com/vi_webp/yD5qWD_x50M/sddefault.webp?v=65688340&sqp=CISuz6sG&rs=AOn4CLBUk_n1VgQ68BmNSlHEffW8mfTAyw)]([https://www.youtube.com/embed/yD5qWD_x50M?si=UjmZrbNboqu1xt2g])
+[![Demo Video](https://drive.google.com/uc?export=view&id=1g0yTQMPVdl2DmBFEMpYyUY_WZ34zeRdN)]([https://www.youtube.com/embed/yD5qWD_x50M?si=UjmZrbNboqu1xt2g])
 
 
 
