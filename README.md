@@ -12,9 +12,9 @@
 
 ## 📁 Project Setup:
 
-- Integration of .Java class files in Eclipse IDE.
+- Integration of .java class files in Eclipse IDE.
 - Utilization of the database.properties file for MySQL server information.
-- Establishment of a connection between Java code and the MySQL server using JDBC.
+- Establishment of a connection between Java code and the MySQL server using JDBC, which is present in [`DBConnectionManager.java`](HotelReservationSystem/src/com/management/DBConnectionManager.java)
 
 ## 🛠️ Database Setup:
 
@@ -64,6 +64,7 @@
   - 🔗 [`RoomManagement.java`](HotelReservationSystem/src/com/management/RoomManagement.java)
   - 🔗 [`PaymentManagement.java`](HotelReservationSystem/src/com/management/PaymentManagement.java)
   - 🔗 [`ManagerManagement.java`](HotelReservationSystem/src/com/management/ManagerManagement.java)
+  - 🔗 [`DBConnectionManager.java`](HotelReservationSystem/src/com/management/DBConnectionManager.java)
 
 
 
