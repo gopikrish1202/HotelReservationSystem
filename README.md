@@ -19,7 +19,12 @@
 ## 🛠️ Database Setup:
 
 - Creation of the database: CREATE DATABASE hotel_reservation_system;
-- Creation of tables: riresident, nriresident, room, booking, and payment.
+- Creation of tables:
+- riresident
+-  nriresident
+-   room
+-   booking
+-   payment.
 
 ## 💻 Modules and Packages:
 
