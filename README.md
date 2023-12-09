@@ -51,7 +51,12 @@
 - ⭐ [Util](HotelReservationSystem/src/com/util)
   - 🔗[ApplicationUtil.java](HotelReservationSystem/src/com/util/ApplicationUtil.java)
 - ⭐ [Management](HotelReservationSystem/src/com/management)
-  -
+  - 🔗 [BookingManagement.java](HotelReservationSystem/src/com/management/BookingManagement.java)
+  - 🔗 [RIResidentManagement.java](HotelReservationSystem/src/com/management/RIResidentManagement.java)
+  - 🔗 [NRIResidentManagement.java](HotelReservationSystem/src/com/management/NRIResidentManagement.java)
+  - 🔗 [RoomManagement.java](HotelReservationSystem/src/com/management/RoomManagement.java)
+  - 🔗 [PaymentManagement.java](HotelReservationSystem/src/com/management/PaymentManagement.java)
+  - 🔗 [ManagerManagement.java](HotelReservationSystem/src/com/management/ManagerManagement.java)
 
 
 
