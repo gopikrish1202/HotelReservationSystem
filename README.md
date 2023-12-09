@@ -31,19 +31,20 @@
 - Manager
 - Payment
 
-**Packages:**
+**Packages with respective java files**
 - ⭐ [Client](HotelReservationSystem/src/com/client)
-  -🔗 [UserInterface.java](HotelReservationSystem/src/com/client/UserInterface.java)
+  - 🔗 [UserInterface.java](HotelReservationSystem/src/com/client/UserInterface.java)
 - ⭐ [Model](HotelReservationSystem/src/com/model)
-  -🔗[Booking.java]((HotelReservationSystem/src/com/model/Booking.java)
-  -🔗[Resident.java](HotelReservationSystem/src/com/model/Resident.java)
-  -🔗[RIResident.java](HotelReservationSystem/src/com/model/RIResident.java)
-  -🔗[NRIResident.java](HotelReservationSystem/src/com/model/NRIResident.java)
-  -🔗[Room.java](HotelReservationSystem/src/com/model/Room.java)
-  -🔗[Payment.java](HotelReservationSystem/src/com/model/Payment.java)
+  - 🔗 [Booking.java](HotelReservationSystem/src/com/model/Booking.java)
+  - 🔗 [Resident.java](HotelReservationSystem/src/com/model/Resident.java)
+  - 🔗 [RIResident.java](HotelReservationSystem/src/com/model/RIResident.java)
+  - 🔗 [NRIResident.java](HotelReservationSystem/src/com/model/NRIResident.java)
+  - 🔗 [Room.java](HotelReservationSystem/src/com/model/Room.java)
+  - 🔗 [Payment.java](HotelReservationSystem/src/com/model/Payment.java)
 - ⭐ [Service](HotelReservationSystem/src/com/service)
 - ⭐ [Util](HotelReservationSystem/src/com/util)
 - ⭐ [Management](HotelReservationSystem/src/com/management)
+
 
 
 
