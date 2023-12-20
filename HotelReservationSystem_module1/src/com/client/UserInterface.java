@@ -88,7 +88,7 @@ public class UserInterface {
 
 							switch (choice11) {
 							case 1:
-								while (true) {
+								
 									System.out.println("Enter the Resident id");
 									String rid = sc.next();
 									boolean residentIdExists = RiR.checkIdExists(rid);
@@ -100,13 +100,15 @@ public class UserInterface {
 										int count = RiR.updateRIResidentPhoneNumberUsingResidentId(rid, contactNumber);
 										if (count == 1) {
 											System.out.println("Phone number updated successfully");
+											
+											
 										} else {
 											System.out.println("Update failed");
 										}
-										break; // exit the loop if the update is successful
+										
 									}
-								}
-								break;
+								
+									break;
 
 							case 2:
 								System.out.println("Enter the Aadhar number: ");
@@ -133,7 +135,7 @@ public class UserInterface {
 								} else {
 									System.out.println("Update failed");
 								}
-								break;
+								//break;
 							}
 							break;
 
@@ -143,7 +145,7 @@ public class UserInterface {
 							int choice12 = sc.nextInt();
 							switch (choice12) {
 							case 1:
-								while (true) {
+								
 									System.out.println("Enter the Resident id");
 									String rid1 = sc.next();
 									boolean residentIdExists1 = RiR.checkIdExists(rid1);
@@ -164,9 +166,9 @@ public class UserInterface {
 										} else {
 											System.out.println("Update failed");
 										}
-										break; // exit the loop if the update is successful
+									
 									}
-								}
+								
 								break;
 							case 2:
 								System.out.println("Enter the Aadhar id number");
@@ -205,6 +207,7 @@ public class UserInterface {
 							}
 							break;
 						}
+						break;
 					case 3:
 						System.out.println("Enter the Resident Id: ");
 						String id = sc.next();
@@ -286,7 +289,7 @@ public class UserInterface {
 
 							switch (choice211) {
 							case 1:
-								while (true) {
+								
 									System.out.println("Enter the Resident id");
 									String rid = sc.next();
 									boolean residentIdExists = NRiR.checkIdExists(rid);
@@ -302,10 +305,10 @@ public class UserInterface {
 										} else {
 											System.out.println("Update failed");
 										}
-										break; // exit the loop if the update is successful
+										
 									}
-								}
-								break;
+								
+									break;
 
 							case 2:
 								System.out.println("Enter the Passport number: ");
@@ -344,7 +347,7 @@ public class UserInterface {
 							switch (choice12) {
 
 							case 1:
-								while (true) {
+						
 									System.out.println("Enter the Resident id");
 									String rid1 = sc.next();
 									boolean residentIdExists1 = NRiR.checkIdExists(rid1);
@@ -365,8 +368,8 @@ public class UserInterface {
 										} else {
 											System.out.println("Update failed");
 										}
-										break; // exit the loop if the update is successful
-									}
+										
+									
 								}
 								break;
 
@@ -406,9 +409,9 @@ public class UserInterface {
 								}
 								break;
 							}
-							break;
+							
 						}
-
+						break;
 
 					case 3:
 						System.out.println("Enter the Resident Id: ");
