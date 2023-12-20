@@ -19,13 +19,13 @@
 
 ## 🛠️ Database Setup:
 
-- Creation of the database: using [`create_database.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/create_database.sql)
+- Creation of the database: using [`create_database.sql`](HotelReservationSystem_module1/hotel_reservation_system%20(database)/create_database.sql)
 - Created required tables for the project, using the following queries:
-  - [`riresident.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/riresident.sql)
-  - [`nriresident.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/nriresident.sql)
-  - [`room.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/room.sql)
-  - [`booking.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/booking.sql)
-  - [`payment.sql`](HotelReservationSystem/hotel_reservation_system%20(database)/payment.sql)
+  - [`riresident.sql`](HotelReservationSystem_module1/hotel_reservation_system%20(database)/riresident.sql)
+  - [`nriresident.sql`](HotelReservationSystem_module1/hotel_reservation_system%20(database)/nriresident.sql)
+  - [`room.sql`](HotelReservationSystem_module1/hotel_reservation_system%20(database)/room.sql)
+  - [`booking.sql`](HotelReservationSystem_module1/hotel_reservation_system%20(database)/booking.sql)
+  - [`payment.sql`](HotelReservationSystem_module1/hotel_reservation_system%20(database)/payment.sql)
 
 
 
