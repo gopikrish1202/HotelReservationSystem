@@ -44,32 +44,32 @@
   - 🔗 [`UserInterface.java`](HotelReservationSystem_module1/src/com/client/UserInterface.java)
 
 - ⭐ **[`Model`](HotelReservationSystem/src/com/model)**
-  - 🔗 [`Booking.java`](HotelReservationSystem/src/com/model/Booking.java)
-  - 🔗 [`Resident.java`](HotelReservationSystem/src/com/model/Resident.java)
-  - 🔗 [`RIResident.java`](HotelReservationSystem/src/com/model/RIResident.java)
-  - 🔗 [`NRIResident.java`](HotelReservationSystem/src/com/model/NRIResident.java)
-  - 🔗 [`Room.java`](HotelReservationSystem/src/com/model/Room.java)
-  - 🔗 [`Payment.java`](HotelReservationSystem/src/com/model/Payment.java)
+  - 🔗 [`Booking.java`](HotelReservationSystem_module1/src/com/model/Booking.java)
+  - 🔗 [`Resident.java`](HotelReservationSystem_module1/src/com/model/Resident.java)
+  - 🔗 [`RIResident.java`](HotelReservationSystem_module1/src/com/model/RIResident.java)
+  - 🔗 [`NRIResident.java`](HotelReservationSystem_module1/src/com/model/NRIResident.java)
+  - 🔗 [`Room.java`](HotelReservationSystem_module1/src/com/model/Room.java)
+  - 🔗 [`Payment.java`](HotelReservationSystem_module1/src/com/model/Payment.java)
 
 - ⭐ **[`Service`](HotelReservationSystem/src/com/service)**
-  - 🔗 [`BookingService.java`](HotelReservationSystem/src/com/service/BookingService.java)
-  - 🔗 [`RIResidentService.java`](HotelReservationSystem/src/com/service/RIResidentService.java)
-  - 🔗 [`NRIResidentService.java`](HotelReservationSystem/src/com/service/NRIResidentService.java)
-  - 🔗 [`RoomService.java`](HotelReservationSystem/src/com/service/RoomService.java)
-  - 🔗 [`PaymentService.java`](HotelReservationSystem/src/com/service/PaymentService.java)
-  - 🔗 [`ManagerService.java`](HotelReservationSystem/src/com/service/ManagerService.java)
+  - 🔗 [`BookingService.java`](HotelReservationSystem_module1/src/com/service/BookingService.java)
+  - 🔗 [`RIResidentService.java`](HotelReservationSystem_module1/src/com/service/RIResidentService.java)
+  - 🔗 [`NRIResidentService.java`](HotelReservationSystem_module1/src/com/service/NRIResidentService.java)
+  - 🔗 [`RoomService.java`](HotelReservationSystem_module1/src/com/service/RoomService.java)
+  - 🔗 [`PaymentService.java`](HotelReservationSystem_module1/src/com/service/PaymentService.java)
+  - 🔗 [`ManagerService.java`](HotelReservationSystem_module1/src/com/service/ManagerService.java)
 
 - ⭐ **[`Util`](HotelReservationSystem/src/com/util)**
-  - 🔗 [`ApplicationUtil.java`](HotelReservationSystem/src/com/util/ApplicationUtil.java)
+  - 🔗 [`ApplicationUtil.java`](HotelReservationSystem_module1/src/com/util/ApplicationUtil.java)
 
 - ⭐ **[`Management`](HotelReservationSystem/src/com/management)**
-  - 🔗 [`BookingManagement.java`](HotelReservationSystem/src/com/management/BookingManagement.java)
-  - 🔗 [`RIResidentManagement.java`](HotelReservationSystem/src/com/management/RIResidentManagement.java)
-  - 🔗 [`NRIResidentManagement.java`](HotelReservationSystem/src/com/management/NRIResidentManagement.java)
-  - 🔗 [`RoomManagement.java`](HotelReservationSystem/src/com/management/RoomManagement.java)
-  - 🔗 [`PaymentManagement.java`](HotelReservationSystem/src/com/management/PaymentManagement.java)
-  - 🔗 [`ManagerManagement.java`](HotelReservationSystem/src/com/management/ManagerManagement.java)
-  - 🔗 [`DBConnectionManager.java`](HotelReservationSystem/src/com/management/DBConnectionManager.java)
+  - 🔗 [`BookingManagement.java`](HotelReservationSystem_module1/src/com/management/BookingManagement.java)
+  - 🔗 [`RIResidentManagement.java`](HotelReservationSystem_module1/src/com/management/RIResidentManagement.java)
+  - 🔗 [`NRIResidentManagement.java`](HotelReservationSystem_module1/src/com/management/NRIResidentManagement.java)
+  - 🔗 [`RoomManagement.java`](HotelReservationSystem_module1/src/com/management/RoomManagement.java)
+  - 🔗 [`PaymentManagement.java`](HotelReservationSystem_module1/src/com/management/PaymentManagement.java)
+  - 🔗 [`ManagerManagement.java`](HotelReservationSystem_module1/src/com/management/ManagerManagement.java)
+  - 🔗 [`DBConnectionManager.java`](HotelReservationSystem_module1/src/com/management/DBConnectionManager.java)
 
 
 
